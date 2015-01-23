@@ -1,0 +1,4 @@
+Fire
+Doors
+Ladders
+Climbable objects (Boxes, mounds of crap, etc.)
