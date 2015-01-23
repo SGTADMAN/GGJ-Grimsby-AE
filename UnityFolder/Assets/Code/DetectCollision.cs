@@ -7,9 +7,11 @@ public class DetectCollision : MonoBehaviour {
 	void Start () {
 	
 	}
-	void OnTriggerEnter(Collider other) {
-		GameObject.Destroy (gameObject);
-		PlayerControl.clicked = false;
+	void OnCollisionEnter2D(Collision2D coll) {
+		if (coll.gameObject.name == "player") {
+			GameObject.Destroy (gameObject);
+			PlayerControl.clicked = false;
+		}
 	}
 	// Update is called once per frame
 	void Update () {
