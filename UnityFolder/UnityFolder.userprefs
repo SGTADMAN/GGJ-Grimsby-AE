@@ -1,12 +1,13 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Code\MoveLeft.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Code\CameraFollow.js">
     <Files>
-      <File FileName="Assets\Code\Jump.cs" Line="13" Column="10" />
-      <File FileName="Assets\Code\Move.cs" Line="39" Column="40" />
-      <File FileName="Assets\Code\MoveRight.cs" Line="13" Column="14" />
-      <File FileName="Assets\Code\MoveLeft.cs" Line="4" Column="40" />
-      <File FileName="Assets\Code\JumpCollision.cs" Line="10" Column="20" />
+      <File FileName="Assets\Code\CameraFollow.js" Line="13" Column="3" />
+      <File FileName="Assets\Code\Jump.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\Move.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\MoveRight.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\MoveLeft.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\JumpCollision.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
