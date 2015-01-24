@@ -28,13 +28,16 @@ public class PlayerControl : MonoBehaviour {
 			clicked = true;
 			X = point.x;
 			Speed = speed;
+			DetectCollision.Arrived = false;
 		}
 		Vector3 pos = g.transform.position;
 		if (clicked == true) {
 			if (X > pos.x) {
 				g.transform.position = new Vector3 (pos.x + Speed, pos.y, pos.z);
+				DetectCollision.Arrived = false;
 			} else if (X < pos.x) {
 				g.transform.position = new Vector3 (pos.x - Speed, pos.y, pos.z);
+				DetectCollision.Arrived = false;
 			} 
 		} else {
 			Speed = 0;

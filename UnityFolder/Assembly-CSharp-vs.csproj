@@ -49,6 +49,7 @@
      <Compile Include="Assets\Code\DetectCollision.cs" />
      <Compile Include="Assets\Code\PassNPC.cs" />
      <Compile Include="Assets\Code\PlayerControl.cs" />
+     <Compile Include="Assets\Code\TalkToNPC.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

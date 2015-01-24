@@ -2,6 +2,7 @@
 using System.Collections;
 
 public class DetectCollision : MonoBehaviour {
+	public static bool Arrived = false;
 	// Use this for initialization
 	void Start () {
 	
@@ -10,8 +11,10 @@ public class DetectCollision : MonoBehaviour {
 		if (coll.gameObject.name == "player") {
 			GameObject.Destroy (gameObject);
 			PlayerControl.clicked = false;
+			Arrived = true;
 		}
 	}
+
 	// Update is called once per frame
 	void Update () {
 	
