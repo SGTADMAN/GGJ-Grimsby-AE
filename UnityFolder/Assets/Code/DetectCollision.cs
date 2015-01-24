@@ -2,7 +2,6 @@
 using System.Collections;
 
 public class DetectCollision : MonoBehaviour {
-
 	// Use this for initialization
 	void Start () {
 	
