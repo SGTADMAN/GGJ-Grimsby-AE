@@ -31,7 +31,7 @@ public class Keyboard : MonoBehaviour {
 				m.ZeroSpeed();
 			}
 		}
-		if (Input.GetKeyDown (KeyCode.Space)) {
+		if (Input.GetKeyDown (KeyCode.W)) {
 			m.Jump();
 		}
 	}

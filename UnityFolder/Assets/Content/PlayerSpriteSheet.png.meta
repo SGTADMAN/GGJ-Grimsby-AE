@@ -1,0 +1,796 @@
+fileFormatVersion: 2
+guid: 3a7720e90854a7241a5eee66be628ff0
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PlayerSpriteSheet
+    21300002: PlayerSpriteSheet_0
+    21300004: PlayerSpriteSheet_1
+    21300006: PlayerSpriteSheet_2
+    21300008: PlayerSpriteSheet_3
+    21300010: PlayerSpriteSheet_4
+    21300012: PlayerSpriteSheet_5
+    21300014: PlayerSpriteSheet_6
+    21300016: PlayerSpriteSheet_7
+    21300018: PlayerSpriteSheet_8
+    21300020: PlayerSpriteSheet_9
+    21300022: PlayerSpriteSheet_10
+    21300024: PlayerSpriteSheet_11
+    21300026: PlayerSpriteSheet_12
+    21300028: PlayerSpriteSheet_13
+    21300030: PlayerSpriteSheet_14
+    21300032: PlayerSpriteSheet_15
+    21300034: PlayerSpriteSheet_16
+    21300036: PlayerSpriteSheet_17
+    21300038: PlayerSpriteSheet_18
+    21300040: PlayerSpriteSheet_19
+    21300042: PlayerSpriteSheet_20
+    21300044: PlayerSpriteSheet_21
+    21300046: PlayerSpriteSheet_22
+    21300048: PlayerSpriteSheet_24
+    21300050: PlayerSpriteSheet_25
+    21300052: PlayerSpriteSheet_26
+    21300054: PlayerSpriteSheet_27
+    21300056: PlayerSpriteSheet_31
+    21300058: PlayerSpriteSheet_32
+    21300060: PlayerSpriteSheet_33
+    21300062: PlayerSpriteSheet_34
+    21300064: PlayerSpriteSheet_35
+    21300066: PlayerSpriteSheet_36
+    21300068: PlayerSpriteSheet_37
+    21300070: PlayerSpriteSheet_38
+    21300072: PlayerSpriteSheet_39
+    21300074: PlayerSpriteSheet_40
+    21300076: PlayerSpriteSheet_41
+    21300078: PlayerSpriteSheet_42
+    21300080: PlayerSpriteSheet_43
+    21300082: PlayerSpriteSheet_44
+    21300084: PlayerSpriteSheet_45
+    21300086: PlayerSpriteSheet_46
+    21300088: PlayerSpriteSheet_47
+    21300090: PlayerSpriteSheet_48
+    21300092: PlayerSpriteSheet_49
+    21300094: PlayerSpriteSheet_50
+    21300096: PlayerSpriteSheet_51
+    21300098: PlayerSpriteSheet_52
+    21300100: PlayerSpriteSheet_53
+    21300102: PlayerSpriteSheet_54
+    21300104: PlayerSpriteSheet_55
+    21300106: PlayerSpriteSheet_57
+    21300108: PlayerSpriteSheet_58
+    21300110: PlayerSpriteSheet_59
+    21300112: PlayerSpriteSheet_60
+    21300114: PlayerSpriteSheet_62
+    21300116: PlayerSpriteSheet_63
+    21300118: PlayerSpriteSheet_64
+    21300120: PlayerSpriteSheet_65
+    21300122: PlayerSpriteSheet_68
+    21300124: PlayerSpriteSheet_69
+    21300126: PlayerSpriteSheet_70
+    21300128: PlayerSpriteSheet_71
+    21300130: PlayerSpriteSheet_72
+    21300132: PlayerSpriteSheet_73
+    21300134: PlayerSpriteSheet_74
+    21300136: PlayerSpriteSheet_76
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PlayerSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 919
+        width: 72
+        height: 109
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 916
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 920
+        width: 58
+        height: 109
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 915
+        width: 47
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 916
+        width: 64
+        height: 109
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 920
+        width: 68
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 913
+        width: 72
+        height: 109
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 912
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 912
+        width: 47
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 912
+        width: 58
+        height: 109
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 912
+        width: 64
+        height: 109
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 745
+        width: 50
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 745
+        width: 57
+        height: 137
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 767
+        width: 99
+        height: 134
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 785
+        width: 61
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 752
+        width: 69
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 734
+        width: 61
+        height: 92
+      alignment: 9
+      pivot: {x: .500001013, y: .684282362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 721
+        width: 76
+        height: 76
+      alignment: 9
+      pivot: {x: .5, y: .695194423}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 718
+        width: 57
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 683
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 688
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 680
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 685
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 689
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 683
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 680
+        width: 61
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 680
+        width: 83
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 524
+        width: 56
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 639
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 533
+        width: 56
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 528
+        width: 61
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 529
+        width: 53
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 529
+        width: 53
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 531
+        width: 53
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 534
+        width: 62
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 534
+        width: 62
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 382
+        width: 47
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 382
+        width: 47
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 380
+        width: 47
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 379
+        width: 47
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 382
+        width: 47
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 382
+        width: 47
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 382
+        width: 47
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 382
+        width: 47
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 382
+        width: 47
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 382
+        width: 47
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 329
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 320
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 330
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 324
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 321
+        width: 61
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 321
+        width: 83
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 280
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 232
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 222
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 233
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 227
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 224
+        width: 61
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 224
+        width: 83
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 183
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 127
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 119
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 128
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 122
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 119
+        width: 61
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 119
+        width: 83
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSpriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 78
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

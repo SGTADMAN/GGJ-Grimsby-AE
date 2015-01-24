@@ -7,6 +7,7 @@ public class Move : MonoBehaviour {
 	private Vector3 position;
 	private bool facingright = true;
 	public static bool OnTheGround = true;
+	public Animator anim;
 	// Use this for initialization
 	void Start () {
 	}
@@ -40,5 +41,7 @@ public class Move : MonoBehaviour {
 	}
 	// Update is called once per frame
 	void Update () {
+		anim.SetFloat ("speed", Mathf.Abs(rigidbody2D.velocity.x));
+		anim.SetBool ("jump", OnTheGround);
 	}
 }
