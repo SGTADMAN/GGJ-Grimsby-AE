@@ -3,6 +3,7 @@ using System.Collections;
 
 public class MoveRight : MonoBehaviour {
 	Move m;
+	bool buttondown = false;
 	// Use this for initialization
 	void Start () {
 		m = GameObject.Find ("Player").GetComponent<Move> ();
@@ -10,11 +11,15 @@ public class MoveRight : MonoBehaviour {
 	void OnMouseDown()
 	{
 		m.MoveRight ();
+		buttondown = true;
 	}
 	// Update is called once per frame
 	void Update () {
-		if (Input.GetMouseButtonUp (0)) {
-			m.ZeroSpeed();		
+		if (buttondown) {
+			if (Input.GetMouseButtonUp (0)) {
+				m.ZeroSpeed ();	
+				buttondown = false;
+			}
 		}
 	}
 }
