@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Code\MoveLeft.cs">
+    <Files>
+      <File FileName="Assets\Code\Move.cs" Line="29" Column="40" />
+      <File FileName="Assets\Code\MoveRight.cs" Line="5" Column="2" />
+      <File FileName="Assets\Code\MoveLeft.cs" Line="12" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
