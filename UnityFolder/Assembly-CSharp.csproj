@@ -39,21 +39,30 @@
 	<Reference Include="System.Core" />
 	<Reference Include="System.Xml.Linq" />
 	<Reference Include="UnityEngine">
-	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	  <HintPath>D:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
 	</Reference>
 	<Reference Include="UnityEditor">
-	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	  <HintPath>D:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Code\CheckpointCS.cs" />
      <Compile Include="Assets\Code\Jump.cs" />
      <Compile Include="Assets\Code\JumpCollision.cs" />
      <Compile Include="Assets\Code\Keyboard.cs" />
+     <Compile Include="Assets\Code\Lives.cs" />
      <Compile Include="Assets\Code\Move.cs" />
      <Compile Include="Assets\Code\MoveLeft.cs" />
      <Compile Include="Assets\Code\MoveRight.cs" />
+<<<<<<< HEAD
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
+=======
+     <Compile Include="Assets\Code\ResetCheckpoints.cs" />
+     <Compile Include="Assets\Code\RespawnCS.cs" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>D:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
+>>>>>>> origin/master
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

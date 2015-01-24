@@ -1,6 +1,22 @@
 ﻿<Properties>
+<<<<<<< HEAD
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Code\Keyboard.cs">
+=======
+<<<<<<< HEAD
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Code\Lives.cs">
+    <Files>
+      <File FileName="Assets\Code\Respawn.js" Line="3" Column="1" />
+      <File FileName="Assets\Code\Checkpoint.js" Line="8" Column="22" />
+      <File FileName="Assets\Code\Lives.cs" Line="10" Column="33" />
+      <File FileName="Assets\Code\RespawnCS.cs" Line="11" Column="3" />
+      <File FileName="Assets\Code\CheckpointCS.cs" Line="16" Column="31" />
+      <File FileName="Assets\Code\ResetCheckpoints.cs" Line="8" Column="19" />
+=======
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Code\CameraFollow.js">
+>>>>>>> origin/master
     <Files>
       <File FileName="Assets\Code\Keyboard.cs" Line="20" Column="18" />
       <File FileName="Assets\Code\CameraFollow.js" Line="13" Column="3" />
@@ -9,6 +25,7 @@
       <File FileName="Assets\Code\MoveRight.cs" Line="1" Column="1" />
       <File FileName="Assets\Code\MoveLeft.cs" Line="1" Column="1" />
       <File FileName="Assets\Code\JumpCollision.cs" Line="1" Column="1" />
+>>>>>>> origin/master
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
