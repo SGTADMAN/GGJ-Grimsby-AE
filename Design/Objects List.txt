@@ -1,6 +1,0 @@
-Power Generators	(Interactive)
-Plants			(Background)
-Chairs			(Background)
-Boxes			(Interactive & Background)
-Desks			(Interactive & Background)
-Bins			(Interactive & Background)
