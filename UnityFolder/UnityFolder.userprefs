@@ -1,12 +1,13 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Code\MoveLeft.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Code\Lives.cs">
     <Files>
-      <File FileName="Assets\Code\Jump.cs" Line="13" Column="10" />
-      <File FileName="Assets\Code\Move.cs" Line="39" Column="40" />
-      <File FileName="Assets\Code\MoveRight.cs" Line="13" Column="14" />
-      <File FileName="Assets\Code\MoveLeft.cs" Line="4" Column="40" />
-      <File FileName="Assets\Code\JumpCollision.cs" Line="10" Column="20" />
+      <File FileName="Assets\Code\Respawn.js" Line="3" Column="1" />
+      <File FileName="Assets\Code\Checkpoint.js" Line="8" Column="22" />
+      <File FileName="Assets\Code\Lives.cs" Line="10" Column="33" />
+      <File FileName="Assets\Code\RespawnCS.cs" Line="11" Column="3" />
+      <File FileName="Assets\Code\CheckpointCS.cs" Line="16" Column="31" />
+      <File FileName="Assets\Code\ResetCheckpoints.cs" Line="8" Column="19" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
