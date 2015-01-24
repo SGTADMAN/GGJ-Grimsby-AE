@@ -1,10 +1,17 @@
 ﻿<Properties>
+<<<<<<< HEAD
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Code\PassNPC.cs">
     <Files>
       <File FileName="Assets\Code\DetectCollision.cs" Line="20" Column="1" />
       <File FileName="Assets\Code\PlayerControl.cs" Line="24" Column="5" />
       <File FileName="Assets\Code\PassNPC.cs" Line="13" Column="19" />
+=======
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Code\DetectCollision.cs">
+    <Files>
+      <File FileName="Assets\Code\DetectCollision.cs" Line="17" Column="18" />
+>>>>>>> origin/master
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
