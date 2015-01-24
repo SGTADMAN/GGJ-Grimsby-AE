@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 4fd6a776527eb114889c08f35f41473d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rainbow platforms_long_1
+    21300002: rainbow platforms_long_2
+    21300004: rainbow platforms_medium_1
+    21300006: rainbow platforms_medium_2
+    21300008: rainbow platforms_medium_3
+    21300010: rainbow platforms_short_1
+    21300012: rainbow platforms_medium_4
+    21300014: rainbow platforms_medium_5
+    21300016: rainbow platforms_medium_6
+    21300018: rainbow platforms_medium_7
+    21300020: rainbow platforms_medium_8
+    21300022: rainbow platforms_short_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: rainbow platforms_long_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 261
+        width: 980
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rainbow platforms_long_2
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 203
+        width: 980
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rainbow platforms_medium_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 157
+        width: 237
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rainbow platforms_medium_2
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 159
+        width: 205
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rainbow platforms_medium_3
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 164
+        width: 203
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rainbow platforms_short_1
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 166
+        width: 102
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rainbow platforms_medium_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 101
+        width: 237
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rainbow platforms_medium_5
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 99
+        width: 233
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rainbow platforms_medium_6
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 61
+        width: 233
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rainbow platforms_medium_7
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 65
+        width: 205
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rainbow platforms_medium_8
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 31
+        width: 203
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rainbow platforms_short_2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 32
+        width: 102
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
