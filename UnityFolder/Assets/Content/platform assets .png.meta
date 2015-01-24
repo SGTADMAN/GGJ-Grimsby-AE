@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 2df0e7aafcd3f9f469af012f8ca56ffb
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: platform assets _0
+    21300002: platform assets _1
+    21300004: platform assets _2
+    21300006: platform assets _3
+    21300008: platform assets _4
+    21300010: platform assets _5
+    21300012: platform assets _6
+    21300014: platform assets _7
+    21300016: platform assets _8
+    21300018: platform assets _9
+    21300020: platform assets _10
+    21300022: platform assets _11
+    21300024: platform assets _12
+    21300026: platform assets _13
+    21300028: platform assets _14
+    21300030: platform assets _15
+    21300032: platform assets _16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: platform assets _0
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 450
+        width: 391
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: platform assets _1
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 557
+        width: 261
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: platform assets _2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 539
+        width: 163
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: platform assets _3
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 539
+        width: 364
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: platform assets _4
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 54
+        width: 51
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: platform assets _5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 56
+        width: 48
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: platform assets _6
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 299
+        width: 221
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: platform assets _7
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 426
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: platform assets _8
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 297
+        width: 376
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: platform assets _9
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 303
+        width: 138
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: platform assets _10
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 299
+        width: 403
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: platform assets _11
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 62
+        width: 221
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: platform assets _12
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 148
+        width: 139
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: platform assets _13
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 178
+        width: 336
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: platform assets _14
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 50
+        width: 378
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: platform assets _15
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 56
+        width: 152
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: platform assets _16
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 62
+        width: 337
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

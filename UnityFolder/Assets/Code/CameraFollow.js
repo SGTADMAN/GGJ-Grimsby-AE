@@ -11,5 +11,6 @@ function Update()
 {
 	if(target.transform.position.y > 0)
 		this.transform.position.y = target.transform.position.y;
-	this.transform.position.x = target.transform.position.x;
+	if(target.transform.position.x > -4)
+		this.transform.position.x = target.transform.position.x;
 } 
