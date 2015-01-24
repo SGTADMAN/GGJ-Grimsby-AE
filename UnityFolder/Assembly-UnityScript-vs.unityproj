@@ -47,15 +47,10 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Code\CameraFollow.js" />
-<<<<<<< HEAD
- <Reference Include="UnityEngine.UI">
- <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
-=======
      <Compile Include="Assets\Code\Checkpoint.js" />
      <Compile Include="Assets\Code\Respawn.js" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
->>>>>>> origin/master
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

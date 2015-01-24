@@ -54,15 +54,10 @@
      <Compile Include="Assets\Code\Move.cs" />
      <Compile Include="Assets\Code\MoveLeft.cs" />
      <Compile Include="Assets\Code\MoveRight.cs" />
-<<<<<<< HEAD
- <Reference Include="UnityEngine.UI">
- <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
-=======
      <Compile Include="Assets\Code\ResetCheckpoints.cs" />
      <Compile Include="Assets\Code\RespawnCS.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
->>>>>>> origin/master
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
