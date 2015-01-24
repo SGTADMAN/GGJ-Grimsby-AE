@@ -1,0 +1,410 @@
+fileFormatVersion: 2
+guid: e2b51ae838d8b844b89ff0efe252a8c2
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: plant_red_12
+    21300002: plant_red_11
+    21300004: plant_red_10
+    21300006: plant_red_8
+    21300008: plant_red_7
+    21300010: plant_red_6
+    21300012: plant_red_5
+    21300014: plant_red_9
+    21300016: plant_red_4
+    21300018: plant_red_3
+    21300020: plant_red_2
+    21300022: plant_red_1
+    21300024: plant_purple_7
+    21300026: plant_purple_6
+    21300028: plant_purple_5
+    21300030: plant_purple_4
+    21300032: plant_purple_3
+    21300034: plant_purple_2
+    21300036: plants_green_6
+    21300038: plants_green_5
+    21300040: plant_purple_1
+    21300042: plants_green_4
+    21300044: plants_green_3
+    21300046: plants_green_2
+    21300048: grass_yellow_4
+    21300050: grass_yellow_3
+    21300052: grass_yellow_2
+    21300054: grass_yellow_1
+    21300056: grass_green_4
+    21300058: grass_green_3
+    21300060: grass_green_2
+    21300062: grass_green_1
+    21300064: plants_green_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: plant_red_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 164
+        width: 56
+        height: 93
+      alignment: 9
+      pivot: {x: .474999964, y: .0010753345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plant_red_11
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 162
+        width: 57
+        height: 93
+      alignment: 9
+      pivot: {x: .429824561, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plant_red_10
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 162
+        width: 52
+        height: 82
+      alignment: 9
+      pivot: {x: .311538398, y: -.00121958659}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plant_red_8
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 154
+        width: 52
+        height: 80
+      alignment: 9
+      pivot: {x: .538461566, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plant_red_7
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 150
+        width: 38
+        height: 67
+      alignment: 9
+      pivot: {x: .55526334, y: -.00149262836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plant_red_6
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 150
+        width: 35
+        height: 48
+      alignment: 9
+      pivot: {x: .642168343, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plant_red_5
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 149
+        width: 27
+        height: 36
+      alignment: 9
+      pivot: {x: .896992981, y: -4.23855255e-07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plant_red_9
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 159
+        width: 53
+        height: 79
+      alignment: 9
+      pivot: {x: .324528247, y: .00126590009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plant_red_4
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 152
+        width: 26
+        height: 25
+      alignment: 9
+      pivot: {x: .842307448, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plant_red_3
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 153
+        width: 17
+        height: 13
+      alignment: 9
+      pivot: {x: .858823895, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plant_red_2
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 152
+        width: 16
+        height: 7
+      alignment: 9
+      pivot: {x: .868749619, y: -.0142865861}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plant_red_1
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 151
+        width: 13
+        height: 4
+      alignment: 9
+      pivot: {x: .815382719, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plant_purple_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 65
+        width: 55
+        height: 81
+      alignment: 9
+      pivot: {x: .470909059, y: -.00246919226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plant_purple_6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 60
+        width: 47
+        height: 67
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plant_purple_5
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 60
+        width: 47
+        height: 71
+      alignment: 9
+      pivot: {x: .414893627, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plant_purple_4
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 58
+        width: 37
+        height: 57
+      alignment: 9
+      pivot: {x: .459459454, y: -.00175442616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plant_purple_3
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 56
+        width: 32
+        height: 41
+      alignment: 9
+      pivot: {x: .434374809, y: -.00487806741}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plant_purple_2
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 55
+        width: 26
+        height: 32
+      alignment: 9
+      pivot: {x: .403846145, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plants_green_6
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 54
+        width: 15
+        height: 33
+      alignment: 9
+      pivot: {x: .625311255, y: -1.1559689e-07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plants_green_5
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 54
+        width: 12
+        height: 34
+      alignment: 9
+      pivot: {x: .343358368, y: -1.12196979e-07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plant_purple_1
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 55
+        width: 5
+        height: 19
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plants_green_4
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 54
+        width: 8
+        height: 29
+      alignment: 9
+      pivot: {x: .23739624, y: -.00381285558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plants_green_3
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 54
+        width: 4
+        height: 25
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plants_green_2
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 53
+        width: 6
+        height: 13
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grass_yellow_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 12
+        width: 34
+        height: 28
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grass_yellow_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 12
+        width: 33
+        height: 21
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grass_yellow_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 11
+        width: 26
+        height: 15
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grass_yellow_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 10
+        width: 25
+        height: 11
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grass_green_4
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 7
+        width: 41
+        height: 18
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grass_green_3
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 8
+        width: 37
+        height: 14
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grass_green_2
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 8
+        width: 35
+        height: 10
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grass_green_1
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 9
+        width: 33
+        height: 8
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plants_green_1
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 53
+        width: 3
+        height: 8
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
