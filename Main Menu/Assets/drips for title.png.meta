@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: fb38501ae59e21d43a3652407dd207ae
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: a1
+    21300002: a2
+    21300004: a3
+    21300006: a4
+    21300008: a5
+    21300010: b1
+    21300012: b2
+    21300014: b3
+    21300016: b4
+    21300018: a6
+    21300020: a7
+    21300022: b6
+    21300024: b7
+    21300026: a8
+    21300028: drips for title_36
+    21300030: b5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: a1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 671
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: a2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 662
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: a3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 647
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: a4
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 649
+        width: 4
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: a5
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 663
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: b1
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 650
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: b2
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 639
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: b3
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 624
+        width: 7
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: b4
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 631
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: a6
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 619
+        width: 5
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: a7
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 580
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: b6
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 594
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: b7
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 565
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: a8
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 530
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: drips for title_36
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 498
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: b5
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 645
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
