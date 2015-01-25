@@ -16,7 +16,7 @@ function OnMouseExit()
 
 function OnMouseDown()
 {
-	Application.Quit();
+	Application.LoadLevel("Credit Screen");
 }
 function Update () {
 
