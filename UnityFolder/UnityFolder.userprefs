@@ -1,13 +1,10 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Code\PathFinding.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Code\Move.cs">
     <Files>
-      <File FileName="Assets\Code\PathFinding.cs" Line="9" Column="1" />
-      <File FileName="Assets\Code\Lives.cs" Line="1" Column="1" />
-      <File FileName="Assets\Code\CheckPointCollision.cs" Line="1" Column="1" />
-      <File FileName="Assets\Code\BirdClass.cs" Line="1" Column="1" />
-      <File FileName="Assets\Code\PlantCollision.cs" Line="1" Column="1" />
-      <File FileName="Assets\Code\MoveAnimal.cs" Line="17" Column="21" />
+      <File FileName="Assets\Code\Attack.cs" Line="13" Column="3" />
+      <File FileName="Assets\Code\Move.cs" Line="14" Column="22" />
+      <File FileName="Assets\Code\Paint.cs" Line="14" Column="25" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

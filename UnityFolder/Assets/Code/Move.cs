@@ -9,8 +9,16 @@ public class Move : MonoBehaviour {
 	public Animator anim;
 	private bool CanAttack = false;
 	public bool NotMoving = true;
+	public GameObject redAttack;
+	public float AttackTimer;
+	private float timer;
+	public GameObject Red;
+	public GameObject Green;
+	public GameObject Purple;
+	public GameObject Blue;
 	// Use this for initialization
 	void Start () {
+		timer = AttackTimer;
 	}
 	public void MoveRight()
 	{
@@ -46,11 +54,31 @@ public class Move : MonoBehaviour {
 	{
 		if (OnTheGround) {
 			CanAttack = true;
+			int num = Random.Range(0, 3);
+			switch (num) {
+			case 0:
+				GameObject.Instantiate(Red, gameObject.transform.position, Quaternion.identity);
+				break;
+			case 1:
+				GameObject.Instantiate(Green, gameObject.transform.position, Quaternion.identity);
+				break;
+			case 2:
+				GameObject.Instantiate(Purple, gameObject.transform.position, Quaternion.identity);
+				break;
+			case 3:
+				GameObject.Instantiate(Blue, gameObject.transform.position, Quaternion.identity);
+				break;
+			}
+			/*GameObject.Instantiate(redAttack, new Vector3(gameObject.transform.position.x,
+			                                              gameObject.transform.position.y - 0.13f,
+			                                              0),
+			                       						  Quaternion.identity);*/
 		}
 	}
 	public void CantAttack()
 	{
 		CanAttack = false;
+
 	}
 	public void ZeroSpeed()
 	{
@@ -64,5 +92,15 @@ public class Move : MonoBehaviour {
 		anim.SetFloat ("speed", Mathf.Abs(rigidbody2D.velocity.x));
 		anim.SetBool ("jump", OnTheGround);
 		anim.SetBool ("attack", CanAttack);
+		if (AttackTimer > 0)
+			AttackTimer -= Time.deltaTime;
+		if (AttackTimer <= 0) {
+			GameObject.Destroy (GameObject.Find ("RedAttack(Clone)"));
+			//GameObject.Instantiate(Paint, gameObject.transform.position, Quaternion.identity);
+			//Paint p = GameObject.Find("Fire(Clone").GetComponent<Paint>();
+			//p.Red();
+
+			AttackTimer = timer;
+		}
 	}
 }

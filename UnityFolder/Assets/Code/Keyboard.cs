@@ -5,6 +5,7 @@ public class Keyboard : MonoBehaviour {
 	Move m;
 	bool right = false;
 	bool left = false;
+	bool space = false;
 	// Use this for initialization
 	void Start () {
 		m = GameObject.Find ("Player").GetComponent<Move> ();
@@ -33,6 +34,16 @@ public class Keyboard : MonoBehaviour {
 		}
 		if (Input.GetKeyDown (KeyCode.W)) {
 			m.Jump();
+		}
+		if (Input.GetKeyDown (KeyCode.Space)) {
+			m.Fire();
+			space = true;
+		}
+		if (space) {
+			if (Input.GetKeyUp (KeyCode.Space)) {
+				space = false;
+				m.CantAttack();
+			}
 		}
 	}
 }

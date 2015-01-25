@@ -10,7 +10,7 @@ public class EnemySplatTrail : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		float Y = Random.Range (-0.5f, 0.5f);
+		float Y = Random.Range (-0.2f, 0.2f);
 		GameObject.Instantiate (splat, new Vector3 (gameObject.transform.position.x, 
 		                                            gameObject.transform.position.y + Y,
 		                                            0), Quaternion.identity);

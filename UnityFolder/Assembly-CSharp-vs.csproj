@@ -60,6 +60,7 @@
      <Compile Include="Assets\Code\MoveAnimal.cs" />
      <Compile Include="Assets\Code\MoveLeft.cs" />
      <Compile Include="Assets\Code\MoveRight.cs" />
+     <Compile Include="Assets\Code\Paint.cs" />
      <Compile Include="Assets\Code\PathFinding.cs" />
      <Compile Include="Assets\Code\PlantCollision.cs" />
      <Compile Include="Assets\Code\RandomBirdSpawn.cs" />
@@ -67,6 +68,7 @@
      <Compile Include="Assets\Code\RespawnCS.cs" />
      <Compile Include="Assets\Code\SplatCollection.cs" />
      <Compile Include="Assets\Code\SplatTrail.cs" />
+     <Compile Include="Assets\PaintBallMove.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
  </Reference>
