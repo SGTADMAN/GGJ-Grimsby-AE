@@ -1,12 +1,11 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Code\PlantCollision.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Code\MoveLeft.cs">
     <Files>
-      <File FileName="Assets\Code\Move.cs" Line="12" Column="17" />
-      <File FileName="..\..\Daniels Siren 5 Levels\Assets\Scripts\playerMove.js" Line="10" Column="40" />
-      <File FileName="..\..\Daniels Siren 5 Levels\Assets\Scripts\movementScript.js" Line="1" Column="1" />
-      <File FileName="Assets\Code\Keyboard.cs" Line="27" Column="4" />
-      <File FileName="Assets\Code\PlantCollision.cs" Line="8" Column="2" />
+      <File FileName="Assets\Code\Attack.cs" Line="15" Column="18" />
+      <File FileName="Assets\Code\Move.cs" Line="23" Column="4" />
+      <File FileName="Assets\Code\Keyboard.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\MoveLeft.cs" Line="5" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

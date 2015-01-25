@@ -8,25 +8,29 @@ public class Move : MonoBehaviour {
 	private bool facingright = true;
 	public static bool OnTheGround = true;
 	public Animator anim;
+	private bool CanAttack = false;
 	// Use this for initialization
 	void Start () {
 	}
 	public void MoveRight()
 	{
-
-		Vector3 theScale = transform.localScale;
-		if(theScale.x < 0)
-			theScale.x *= -1;
-		transform.localScale = theScale;
-		rigidbody2D.velocity = new Vector2 (rigidbody2D.velocity.x + Speed, rigidbody2D.velocity.y);
+		if (!CanAttack) {
+			Vector3 theScale = transform.localScale;
+			if (theScale.x < 0)
+					theScale.x *= -1;
+			transform.localScale = theScale;
+			rigidbody2D.velocity = new Vector2 (rigidbody2D.velocity.x + Speed, rigidbody2D.velocity.y);
+		}
 	}
 	public void MoveLeft()
 	{
-		Vector3 theScale = transform.localScale;
-		if(theScale.x > 0)
-			theScale.x *= -1;
-		transform.localScale = theScale;
-		rigidbody2D.velocity = new Vector2 (rigidbody2D.velocity.x - Speed, rigidbody2D.velocity.y);
+		if (!CanAttack) {
+			Vector3 theScale = transform.localScale;
+			if (theScale.x > 0)
+					theScale.x *= -1;
+			transform.localScale = theScale;
+			rigidbody2D.velocity = new Vector2 (rigidbody2D.velocity.x - Speed, rigidbody2D.velocity.y);
+		}
 	}
 	public void Jump()
 	{
@@ -34,6 +38,16 @@ public class Move : MonoBehaviour {
 			rigidbody2D.velocity = new Vector2 (rigidbody2D.velocity.x, rigidbody2D.velocity.y + JumpPower);
 			OnTheGround = false;
 		}
+	}
+	public void Fire()
+	{
+		if (OnTheGround) {
+			CanAttack = true;
+		}
+	}
+	public void CantAttack()
+	{
+		CanAttack = false;
 	}
 	public void ZeroSpeed()
 	{
@@ -43,5 +57,6 @@ public class Move : MonoBehaviour {
 	void Update () {
 		anim.SetFloat ("speed", Mathf.Abs(rigidbody2D.velocity.x));
 		anim.SetBool ("jump", OnTheGround);
+		anim.SetBool ("attack", CanAttack);
 	}
 }
