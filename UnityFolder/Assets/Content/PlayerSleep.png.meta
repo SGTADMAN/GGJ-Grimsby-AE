@@ -1,0 +1,367 @@
+fileFormatVersion: 2
+guid: 93860c8e449b2dc4fb31fcde3bb70e1c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PlayerSleep
+    21300002: PlayerSleep_0
+    21300004: PlayerSleep_1
+    21300006: PlayerSleep_2
+    21300008: PlayerSleep_3
+    21300010: PlayerSleep_4
+    21300012: PlayerSleep_5
+    21300014: PlayerSleep_6
+    21300016: PlayerSleep_7
+    21300018: PlayerSleep_8
+    21300020: PlayerSleep_9
+    21300022: PlayerSleep_10
+    21300024: PlayerSleep_11
+    21300026: PlayerSleep_12
+    21300028: PlayerSleep_13
+    21300030: PlayerSleep_14
+    21300032: PlayerSleep_15
+    21300034: PlayerSleep_16
+    21300036: PlayerSleep_17
+    21300038: PlayerSleep_18
+    21300040: PlayerSleep_19
+    21300042: PlayerSleep_20
+    21300044: PlayerSleep_21
+    21300046: PlayerSleep_22
+    21300048: PlayerSleep_23
+    21300050: PlayerSleep_24
+    21300052: PlayerSleep_25
+    21300054: PlayerSleep_26
+    21300056: PlayerSleep_27
+    21300058: PlayerSleep_28
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PlayerSleep_0
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 530
+        width: 47
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSleep_1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 533
+        width: 47
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSleep_2
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 533
+        width: 47
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSleep_3
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 533
+        width: 47
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSleep_4
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 533
+        width: 47
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSleep_5
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 533
+        width: 45
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSleep_6
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 530
+        width: 46
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSleep_7
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 533
+        width: 52
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSleep_8
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 532
+        width: 59
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSleep_9
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 530
+        width: 63
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSleep_10
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 172
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSleep_11
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 174
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSleep_12
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 173
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSleep_13
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 175
+        width: 56
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSleep_14
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 172
+        width: 54
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSleep_15
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 172
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSleep_16
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 172
+        width: 54
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSleep_17
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 172
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSleep_18
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 172
+        width: 54
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSleep_19
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 172
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSleep_20
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 172
+        width: 54
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSleep_21
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 172
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSleep_22
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 172
+        width: 54
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSleep_23
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 172
+        width: 54
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSleep_24
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 172
+        width: 54
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSleep_25
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 172
+        width: 54
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSleep_26
+      rect:
+        serializedVersion: 2
+        x: 2603
+        y: 172
+        width: 54
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSleep_27
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 172
+        width: 54
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSleep_28
+      rect:
+        serializedVersion: 2
+        x: 2921
+        y: 172
+        width: 54
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

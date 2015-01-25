@@ -1,0 +1,323 @@
+fileFormatVersion: 2
+guid: a3c402f33d450724da34a296b2f907c6
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Butterfly Scene Death
+    21300002: bd1
+    21300004: bd2
+    21300006: bd3
+    21300008: bd4
+    21300010: bd24
+    21300012: bd25
+    21300014: bd5
+    21300016: bd6
+    21300018: bd7
+    21300020: bd8
+    21300022: bd14
+    21300024: bd17
+    21300026: bd18
+    21300028: bd19
+    21300030: bd20
+    21300032: bd21
+    21300034: bd22
+    21300036: bd23
+    21300038: bd15
+    21300040: bd16
+    21300042: bd9
+    21300044: bd10
+    21300046: bd11
+    21300048: bd12
+    21300050: bd13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bd1
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 433
+        width: 90
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bd2
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 437
+        width: 89
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bd3
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 433
+        width: 110
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bd4
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 430
+        width: 94
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bd24
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 412
+        width: 36
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bd25
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 414
+        width: 47
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bd5
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 436
+        width: 93
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bd6
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 431
+        width: 117
+        height: 119
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bd7
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 431
+        width: 114
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bd8
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 431
+        width: 112
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bd14
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 423
+        width: 107
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bd17
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 410
+        width: 102
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bd18
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 410
+        width: 90
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bd19
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 410
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bd20
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 413
+        width: 70
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bd21
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 415
+        width: 57
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bd22
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 414
+        width: 60
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bd23
+      rect:
+        serializedVersion: 2
+        x: 2734
+        y: 413
+        width: 51
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bd15
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 420
+        width: 112
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bd16
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 414
+        width: 114
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bd9
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 347
+        width: 117
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bd10
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 280
+        width: 114
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bd11
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 212
+        width: 114
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bd12
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 144
+        width: 114
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bd13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 75
+        width: 114
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
