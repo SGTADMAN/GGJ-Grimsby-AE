@@ -92,8 +92,8 @@ TextureImporter:
     - name: bd3
       rect:
         serializedVersion: 2
-        x: 1165
-        y: 433
+        x: 1164
+        y: 436
         width: 110
         height: 121
       alignment: 0
@@ -103,7 +103,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1283
-        y: 430
+        y: 434
         width: 94
         height: 125
       alignment: 0
@@ -115,7 +115,7 @@ TextureImporter:
         x: 2808
         y: 412
         width: 36
-        height: 120
+        height: 128
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -132,7 +132,7 @@ TextureImporter:
     - name: bd5
       rect:
         serializedVersion: 2
-        x: 1386
+        x: 1385
         y: 436
         width: 93
         height: 120
@@ -142,8 +142,8 @@ TextureImporter:
     - name: bd6
       rect:
         serializedVersion: 2
-        x: 1484
-        y: 431
+        x: 1485
+        y: 439
         width: 117
         height: 119
       alignment: 0
@@ -152,8 +152,8 @@ TextureImporter:
     - name: bd7
       rect:
         serializedVersion: 2
-        x: 1607
-        y: 431
+        x: 1604
+        y: 439
         width: 114
         height: 120
       alignment: 0
@@ -162,8 +162,8 @@ TextureImporter:
     - name: bd8
       rect:
         serializedVersion: 2
-        x: 1722
-        y: 431
+        x: 1723
+        y: 440
         width: 112
         height: 126
       alignment: 0
@@ -183,7 +183,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2175
-        y: 410
+        y: 412
         width: 102
         height: 126
       alignment: 0
@@ -193,7 +193,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2289
-        y: 410
+        y: 408
         width: 90
         height: 128
       alignment: 0
@@ -205,7 +205,7 @@ TextureImporter:
         x: 2406
         y: 410
         width: 55
-        height: 72
+        height: 129
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -215,7 +215,7 @@ TextureImporter:
         x: 2479
         y: 413
         width: 70
-        height: 79
+        height: 124
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -225,17 +225,17 @@ TextureImporter:
         x: 2584
         y: 415
         width: 57
-        height: 77
+        height: 122
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: bd22
       rect:
         serializedVersion: 2
-        x: 2654
+        x: 2653
         y: 414
         width: 60
-        height: 82
+        height: 123
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -245,7 +245,7 @@ TextureImporter:
         x: 2734
         y: 413
         width: 51
-        height: 103
+        height: 124
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -273,21 +273,21 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1701
-        y: 347
+        y: 350
         width: 117
-        height: 73
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 90
+      alignment: 2
+      pivot: {x: .5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: bd10
       rect:
         serializedVersion: 2
         x: 1706
-        y: 280
+        y: 281
         width: 114
-        height: 46
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 67
+      alignment: 2
+      pivot: {x: .5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: bd11
       rect:
@@ -295,9 +295,9 @@ TextureImporter:
         x: 1709
         y: 212
         width: 114
-        height: 46
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 69
+      alignment: 2
+      pivot: {x: .5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: bd12
       rect:
@@ -305,9 +305,9 @@ TextureImporter:
         x: 1709
         y: 144
         width: 114
-        height: 46
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 68
+      alignment: 2
+      pivot: {x: .5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: bd13
       rect:
@@ -315,9 +315,9 @@ TextureImporter:
         x: 1664
         y: 75
         width: 114
-        height: 46
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 68
+      alignment: 2
+      pivot: {x: .5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 

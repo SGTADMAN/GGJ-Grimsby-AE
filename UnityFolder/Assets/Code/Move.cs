@@ -16,39 +16,46 @@ public class Move : MonoBehaviour {
 	public GameObject Green;
 	public GameObject Purple;
 	public GameObject Blue;
+	public static bool END = false;
 	// Use this for initialization
 	void Start () {
 		timer = AttackTimer;
 	}
 	public void MoveRight()
 	{
-		if (!CanAttack) {
-			Vector3 theScale = transform.localScale;
-			if (theScale.x < 0)
-					theScale.x *= -1;
-			transform.localScale = theScale;
-			rigidbody2D.velocity = new Vector2 (rigidbody2D.velocity.x + Speed, rigidbody2D.velocity.y);
-			NotMoving = false;
-		}
+		if (END != true) {
+			if (!CanAttack) {
+					Vector3 theScale = transform.localScale;
+					if (theScale.x < 0)
+							theScale.x *= -1;
+					transform.localScale = theScale;
+					rigidbody2D.velocity = new Vector2 (rigidbody2D.velocity.x + Speed, rigidbody2D.velocity.y);
+					NotMoving = false;
+			}
+	}
 	}
 	public void MoveLeft()
 	{
-		if (!CanAttack) {
-			Vector3 theScale = transform.localScale;
-			if (theScale.x > 0)
-					theScale.x *= -1;
-			transform.localScale = theScale;
-			rigidbody2D.velocity = new Vector2 (rigidbody2D.velocity.x - Speed, rigidbody2D.velocity.y);
-			NotMoving = false;
-		}
+		if (END != true) {
+			if (!CanAttack) {
+					Vector3 theScale = transform.localScale;
+					if (theScale.x > 0)
+							theScale.x *= -1;
+					transform.localScale = theScale;
+					rigidbody2D.velocity = new Vector2 (rigidbody2D.velocity.x - Speed, rigidbody2D.velocity.y);
+					NotMoving = false;
+			}
+	}
 	}
 	public void Jump()
 	{
-		if (OnTheGround) {
-			rigidbody2D.velocity = new Vector2 (rigidbody2D.velocity.x, rigidbody2D.velocity.y + JumpPower);
-			OnTheGround = false;
-			NotMoving = false;
-		}
+		if (END != true) {
+						if (OnTheGround) {
+								rigidbody2D.velocity = new Vector2 (rigidbody2D.velocity.x, rigidbody2D.velocity.y + JumpPower);
+								OnTheGround = false;
+								NotMoving = false;
+						}
+				}
 	}
 	public void Fire()
 	{
