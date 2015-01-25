@@ -13,8 +13,10 @@ public class RespawnCS : MonoBehaviour {
 	}
 	void OnTriggerEnter2D(Collider2D other)
 	{
-		player.transform.position = SpawnPoint.transform.position;
-		m.Reset ();
-		Lives.Decrease ();
+		if (other.gameObject.name == "Player") {
+			player.transform.position = SpawnPoint.transform.position;
+			m.Reset ();
+			Lives.Decrease ();
+		}
 	}
 }
