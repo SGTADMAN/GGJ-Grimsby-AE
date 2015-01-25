@@ -72,7 +72,7 @@ TextureImporter:
         width: 31
         height: 28
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: attack 2_1
       rect:
@@ -82,7 +82,7 @@ TextureImporter:
         width: 36
         height: 21
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: attack 2_2
       rect:
@@ -92,7 +92,7 @@ TextureImporter:
         width: 6
         height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: attack 2_3
       rect:
@@ -102,7 +102,7 @@ TextureImporter:
         width: 16
         height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: attack 2_4
       rect:
@@ -112,7 +112,7 @@ TextureImporter:
         width: 5
         height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: attack 2_5
       rect:
@@ -122,7 +122,7 @@ TextureImporter:
         width: 27
         height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: attack 2_6
       rect:
@@ -132,7 +132,7 @@ TextureImporter:
         width: 26
         height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: attack 2_7
       rect:
@@ -142,7 +142,7 @@ TextureImporter:
         width: 61
         height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: attack 2_8
       rect:
@@ -152,7 +152,7 @@ TextureImporter:
         width: 83
         height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: attack 2_9
       rect:
@@ -162,7 +162,7 @@ TextureImporter:
         width: 5
         height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: attack 2_10
       rect:
@@ -172,7 +172,7 @@ TextureImporter:
         width: 11
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: attack 2_11
       rect:
@@ -182,7 +182,7 @@ TextureImporter:
         width: 5
         height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: attack 2_12
       rect:
@@ -192,7 +192,7 @@ TextureImporter:
         width: 56
         height: 120
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: attack 2_13
       rect:
@@ -202,7 +202,7 @@ TextureImporter:
         width: 30
         height: 21
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: attack 2_14
       rect:
@@ -212,7 +212,7 @@ TextureImporter:
         width: 56
         height: 120
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: attack 2_15
       rect:
@@ -221,8 +221,8 @@ TextureImporter:
         y: 10
         width: 60
         height: 97
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .511365891, y: .656472504}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: attack 2_16
       rect:
@@ -231,8 +231,8 @@ TextureImporter:
         y: 11
         width: 53
         height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: .513221025, y: .653899968}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: attack 2_17
       rect:
@@ -241,8 +241,8 @@ TextureImporter:
         y: 11
         width: 53
         height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: .480581611, y: .67172426}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: attack 2_18
       rect:
@@ -251,8 +251,8 @@ TextureImporter:
         y: 13
         width: 53
         height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: .506551504, y: .696912289}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: attack 2_19
       rect:
@@ -261,8 +261,8 @@ TextureImporter:
         y: 16
         width: 62
         height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: .516700506, y: .719264507}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: attack 2_20
       rect:
@@ -271,8 +271,8 @@ TextureImporter:
         y: 16
         width: 62
         height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: .505599976, y: .740965784}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 

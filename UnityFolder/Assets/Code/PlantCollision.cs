@@ -8,9 +8,12 @@ public class PlantCollision : MonoBehaviour {
 	void Start () {
 	
 	}
+	public void Reset()
+	{
+		growth = false;
+	}
 	void OnTriggerEnter2D(Collider2D other)
 	{
-		Debug.Log ("Collided");
 		if (other.gameObject.name == "Plant_growth") {
 			growth = true;
 		}

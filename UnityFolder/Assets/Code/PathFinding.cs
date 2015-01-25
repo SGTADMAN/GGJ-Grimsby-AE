@@ -7,13 +7,17 @@ public class PathFinding : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		move = GameObject.Find ("Butterfly").GetComponent<ButterflyMove> ();
-		if(NextPath == null)
-			NextPath = null;
+		try{
+			if(NextPath == null)
+				NextPath = null;
+		}
+		catch{
+		}
 	}
 	void OnTriggerEnter2D(Collider2D other)
 	{
 		if (other.gameObject.name == "Butterfly") {
-			move.Stop(NextPath);	
+			move.Stop(NextPath);
 		}
 	}
 	// Update is called once per frame

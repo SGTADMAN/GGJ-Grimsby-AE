@@ -6,17 +6,22 @@ public class CheckpointCS : MonoBehaviour {
 	public GameObject SpawnPoint;
 	private ButterflyMove path;
 	public GameObject ClosestPath;
+	private bool Active = true;
 	
 	void OnTriggerEnter2D (Collider2D other)
 	{
-		SpawnPoint.transform.position = new Vector3(gameObject.transform.position.x, gameObject.transform.position.y, gameObject.transform.position.z);
-		path = GameObject.Find ("Butterfly").GetComponent<ButterflyMove> ();
-		path.FirstPath = ClosestPath;
-		gameObject.SetActive(false);
+		if (Active) {
+			if (other.gameObject.name == "Player") {
+				SpawnPoint.transform.position = new Vector3 (gameObject.transform.position.x, gameObject.transform.position.y + 1.5f, gameObject.transform.position.z);
+				path = GameObject.Find ("Butterfly").GetComponent<ButterflyMove> ();
+				path.FirstPath = ClosestPath;
+				Active = false;
+			}
+		}
 	}
 
 	public void Reset()
 	{
-		gameObject.SetActive (true);
+		Active = true;
 	}
 }

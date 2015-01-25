@@ -15,7 +15,7 @@ public class BirdClass : MonoBehaviour {
 	void Update () {
 		player = GameObject.Find ("Player");
 		rigidbody2D.velocity = new Vector2 (rigidbody2D.velocity.x, 0);
-		if (player.transform.position.x - 5 > gameObject.transform.position.x) {
+		if (player.transform.position.x - 9 > gameObject.transform.position.x) {
 			GameObject.Destroy(gameObject);	
 		}
 	}

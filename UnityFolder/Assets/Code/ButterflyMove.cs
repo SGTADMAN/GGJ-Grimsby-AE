@@ -15,10 +15,10 @@ public class ButterflyMove : MonoBehaviour {
 	}
 	public void Reset()
 	{
-		Go ();
 		isMoving = false;
 		gameObject.transform.position= new Vector3(Player.transform.position.x + 4, Player.transform.position.y - 0.2f);
 		Path = FirstPath;
+		Go ();
 	}
 	public void Stop(GameObject o)
 	{

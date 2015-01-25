@@ -11,7 +11,12 @@ public class MoveAnimal : MonoBehaviour {
 	void Start () {
 		rigidbody2D.velocity = new Vector2 (rigidbody2D.velocity.x + Speed, rigidbody2D.velocity.y);
 	}
-	
+	void OnTriggerEnter2D(Collider2D other)
+	{
+		if (other.gameObject.name == "Player") {
+			Lives.Decrease();
+		}
+	}
 	// Update is called once per frame
 	void Update () {
 		if(lastPos != 0)

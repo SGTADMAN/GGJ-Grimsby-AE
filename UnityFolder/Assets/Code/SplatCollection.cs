@@ -3,12 +3,12 @@ using System.Collections;
 
 public class SplatCollection : MonoBehaviour {
 	public Sprite[] Splats;
-	SpriteRenderer renderer;
+	SpriteRenderer rend;
 	// Use this for initialization
 	void Start () {
-		renderer = gameObject.GetComponent<SpriteRenderer> ();
-		int n = Random.Range (0, 15);
-		renderer.sprite = Splats [n];
+		rend = gameObject.GetComponent<SpriteRenderer> ();
+		int n = Random.Range (0, Splats.Length - 1);
+		rend.sprite = Splats [n];
 	}
 	
 	// Update is called once per frame

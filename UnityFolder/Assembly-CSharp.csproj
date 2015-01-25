@@ -49,7 +49,9 @@
      <Compile Include="Assets\Code\Attack.cs" />
      <Compile Include="Assets\Code\BirdClass.cs" />
      <Compile Include="Assets\Code\ButterflyMove.cs" />
+     <Compile Include="Assets\Code\CheckPointCollision.cs" />
      <Compile Include="Assets\Code\CheckpointCS.cs" />
+     <Compile Include="Assets\Code\EnemySplatTrail.cs" />
      <Compile Include="Assets\Code\Jump.cs" />
      <Compile Include="Assets\Code\JumpCollision.cs" />
      <Compile Include="Assets\Code\Keyboard.cs" />
