@@ -1,0 +1,29 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Adam\Desktop\Test game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Adam\Desktop\Test game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Adam\Desktop\Test game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Adam\Desktop\Test game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Adam\Desktop\Test game_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Adam\Desktop\Test game_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Adam\Desktop\Test game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Adam\Desktop\Test game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.033 seconds
+desktop: 1920x1080 144Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\Adam\Desktop\Test game_Data\Managed\System.Core.dll (this message is harmless)
+HDR and MultisampleAntiAliasing (in Forward Rendering Path) is not supported. This camera will render without HDR buffers. Disable Antialiasing in the Quality settings if you want to use HDR.
+ 
+(Filename:  Line: 2466)
+
+HDR RenderTexture format is not supported on this platform. This camera will render without HDR buffers.
+ 
+(Filename:  Line: 2468)
+

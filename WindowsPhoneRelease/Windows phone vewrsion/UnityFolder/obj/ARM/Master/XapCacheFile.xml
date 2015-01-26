@@ -1,0 +1,33 @@
+﻿<xapCache source="C:\Users\Adam\Desktop\Windows phone vewrsion\UnityFolder\Bin\ARM\Master\UnityFolder_Master_ARM.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="25/01/2015 15:07:00">
+  <file source="C:\Users\Adam\Desktop\Windows phone vewrsion\UnityFolder\obj\ARM\Master\UnityFolder.dll" archivePath="UnityFolder.dll" lastWriteTime="25/01/2015 15:06:53" />
+  <file source="C:\Users\Adam\Desktop\Windows phone vewrsion\UnityFolder\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="10/06/2014 16:33:10" />
+  <file source="C:\Users\Adam\Desktop\Windows phone vewrsion\UnityFolder\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="10/06/2014 16:33:10" />
+  <file source="C:\Users\Adam\Desktop\Windows phone vewrsion\UnityFolder\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="10/06/2014 16:33:10" />
+  <file source="C:\Users\Adam\Desktop\Windows phone vewrsion\UnityFolder\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="10/06/2014 16:33:10" />
+  <file source="C:\Users\Adam\Desktop\Windows phone vewrsion\UnityFolder\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="10/06/2014 16:33:10" />
+  <file source="C:\Users\Adam\Desktop\Windows phone vewrsion\UnityFolder\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="10/06/2014 16:33:10" />
+  <file source="C:\Users\Adam\Desktop\Windows phone vewrsion\UnityFolder\Data\level0" archivePath="Data\level0" lastWriteTime="25/01/2015 15:06:32" />
+  <file source="C:\Users\Adam\Desktop\Windows phone vewrsion\UnityFolder\Data\level1" archivePath="Data\level1" lastWriteTime="25/01/2015 15:06:32" />
+  <file source="C:\Users\Adam\Desktop\Windows phone vewrsion\UnityFolder\Data\mainData" archivePath="Data\mainData" lastWriteTime="25/01/2015 15:06:33" />
+  <file source="C:\Users\Adam\Desktop\Windows phone vewrsion\UnityFolder\Data\managedAssemblies.txt" archivePath="Data\managedAssemblies.txt" lastWriteTime="25/01/2015 15:06:43" />
+  <file source="C:\Users\Adam\Desktop\Windows phone vewrsion\UnityFolder\Data\Resources\unity default resources" archivePath="Data\Resources\unity default resources" lastWriteTime="04/12/2014 21:44:38" />
+  <file source="C:\Users\Adam\Desktop\Windows phone vewrsion\UnityFolder\Data\Resources\unity_builtin_extra" archivePath="Data\Resources\unity_builtin_extra" lastWriteTime="25/01/2015 15:06:33" />
+  <file source="C:\Users\Adam\Desktop\Windows phone vewrsion\UnityFolder\Data\sharedassets0.assets" archivePath="Data\sharedassets0.assets" lastWriteTime="25/01/2015 15:06:33" />
+  <file source="C:\Users\Adam\Desktop\Windows phone vewrsion\UnityFolder\Data\sharedassets1.assets" archivePath="Data\sharedassets1.assets" lastWriteTime="25/01/2015 15:06:33" />
+  <file source="C:\Users\Adam\Desktop\Windows phone vewrsion\UnityFolder\Data\sharedassets2.assets" archivePath="Data\sharedassets2.assets" lastWriteTime="25/01/2015 15:06:33" />
+  <file source="C:\Users\Adam\Desktop\Windows phone vewrsion\UnityFolder\Bin\ARM\Master\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="25/01/2015 15:06:54" />
+  <file source="C:\Users\Adam\Desktop\Windows phone vewrsion\UnityFolder\Bin\ARM\Master\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="10/06/2014 16:33:10" />
+  <file source="C:\Users\Adam\Desktop\Windows phone vewrsion\UnityFolder\Bin\ARM\Master\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="10/06/2014 16:33:10" />
+  <file source="C:\Users\Adam\Desktop\Windows phone vewrsion\UnityFolder\Assembly-CSharp.dll" archivePath="Assembly-CSharp.dll" lastWriteTime="25/01/2015 15:06:42" />
+  <file source="C:\Users\Adam\Desktop\Windows phone vewrsion\UnityFolder\Assembly-UnityScript.dll" archivePath="Assembly-UnityScript.dll" lastWriteTime="25/01/2015 15:06:42" />
+  <file source="C:\Users\Adam\Desktop\Windows phone vewrsion\UnityFolder\Boo.Lang.dll" archivePath="Boo.Lang.dll" lastWriteTime="25/01/2015 15:06:42" />
+  <file source="C:\Users\Adam\Desktop\Windows phone vewrsion\Players\ARM\Master\BridgeInterface.winmd" archivePath="BridgeInterface.winmd" lastWriteTime="05/12/2014 11:33:58" />
+  <file source="C:\Users\Adam\Desktop\Windows phone vewrsion\UnityFolder\UnityEngine.dll" archivePath="UnityEngine.dll" lastWriteTime="25/01/2015 15:06:43" />
+  <file source="C:\Users\Adam\Desktop\Windows phone vewrsion\UnityFolder\UnityEngine.UI.dll" archivePath="UnityEngine.UI.dll" lastWriteTime="25/01/2015 15:06:43" />
+  <file source="C:\Users\Adam\Desktop\Windows phone vewrsion\Players\ARM\Master\UnityPlayer.winmd" archivePath="UnityPlayer.winmd" lastWriteTime="05/12/2014 11:52:16" />
+  <file source="C:\Users\Adam\Desktop\Windows phone vewrsion\Players\ARM\Master\WinRTBridge.dll" archivePath="WinRTBridge.dll" lastWriteTime="05/12/2014 11:33:58" />
+  <file source="C:\Users\Adam\Desktop\Windows phone vewrsion\UnityFolder\WinRTLegacy.dll" archivePath="WinRTLegacy.dll" lastWriteTime="25/01/2015 15:06:43" />
+  <file source="C:\Users\Adam\Desktop\Windows phone vewrsion\Players\ARM\Master\BridgeInterface.dll" archivePath="BridgeInterface.dll" lastWriteTime="05/12/2014 11:33:58" />
+  <file source="C:\Users\Adam\Desktop\Windows phone vewrsion\Players\ARM\Master\UnityPlayer.dll" archivePath="UnityPlayer.dll" lastWriteTime="05/12/2014 11:52:34" />
+  <file source="C:\Users\Adam\Desktop\Windows phone vewrsion\UnityFolder\Bin\ARM\Master\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="25/01/2015 15:06:54" />
+</xapCache>
